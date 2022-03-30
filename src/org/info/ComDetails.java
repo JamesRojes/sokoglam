@@ -9,6 +9,7 @@ System.out.println("Company name is "+n);
 }	
 public  void companyname(int i) {
 System.out.println("company id is"+i);	
+System.out.println("company id is"+i);
 }
 	
 public  void companyname(int pin,String c) {
